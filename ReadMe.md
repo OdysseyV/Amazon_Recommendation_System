@@ -20,7 +20,7 @@ items is still not reached, it begins to add on nodes based on the highest degre
 Code for this can be seen in the attached jupyter notebook under the heading, “Store Owner
 Recommendation System.”
 ### Data Characteristics
-![img.png](img.png)
+![img.png](images/img.png)
 
 ### Graphs
-![img_1.png](img_1.png)
+![img_1.png](images/img_1.png)
