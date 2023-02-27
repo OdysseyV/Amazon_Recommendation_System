@@ -1,8 +1,10 @@
 # Amazon Content-Based Recommendation System
 
-## Dataset from: http://snap.stanford.edu/data/amazon0302.html
+### Dataset from: http://snap.stanford.edu/data/amazon0302.html
 
-## Report: https://github.com/OdysseyV/Amazon_Recommendation_System/blob/main/Report.pdf
+### Report: https://github.com/OdysseyV/Amazon_Recommendation_System/blob/main/Report.pdf
+
+### Contributors: Odyssey Villagomez & Samuel Wozinski
 
 ### Recommending Products 
 After we identified the popular products, we then created our recommendation
